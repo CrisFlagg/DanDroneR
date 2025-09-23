@@ -1,11 +1,47 @@
-# Executive Summary: Drone + GIS Use in Rail Yards and Infrastructure
+# Drone + GIS in Rail Yards and Infrastructure
 
-This repository compiles sourced evidence of how Class I railroads and selected short lines are using drones—often integrated with GIS/AI—for intermodal yard inventory, security, and infrastructure inspection. Key points:
+## Background
+
+Railroads increasingly deploy drones integrated with GIS and AI to meet operational needs in intermodal yards and along rail corridors. In yards, “drone-in-a-box” systems run scheduled low-altitude flights to capture container rows and slot markings; AI/optical character recognition (OCR) extracts container IDs and parking locations while metadata (GPS, yaw, gimbal) supports precise georeferencing. Coupled with facility GIS basemaps, this enables near-real-time inventory, faster gate operations, and better yard space utilization. Along tracks and bridges, drones collect high-resolution visual/thermal imagery for inspection without exposing personnel to hazardous areas; when permitted, BVLOS (Beyond Visual Line of Sight) operations extend coverage and enable remote monitoring. Vendors now provide autonomous mission planning, detect-and-avoid systems, docking/battery-swap infrastructure, edge ML defect detection, and integrations into enterprise GIS and yard systems.
+
+## Current Status
+
+Adoption spans Class I railroads and selected short lines. BNSF’s Automated Yard Check (AYC) flies every 30–90 minutes over intermodal rows, achieving a reported 20% accuracy improvement versus manual yard checks and delivering more frequent checks; BNSF also holds experience with dock-based BVLOS waivers (up to 100 ft AGL) and long-range BVLOS track inspection (132 miles in New Mexico). CSX runs autonomous yard inspections across multiple sites using docks, RTK drones, edge ML, and a remote operations center; missions are triggered when track availability permits. Union Pacific has over 250 certified pilots using drones for yard audits, storm/derailment assessments, and bridge/tunnel inspections, and is exploring autonomous yard drones. Norfolk Southern and Canadian National operate VLOS drone inspections to supplement bridge/track assessments, prioritizing safety and efficiency. Short lines and contractors (e.g., Norfolk & Portsmouth Belt Line, Watco, ARE Corp.) use drones to inspect bridges during operation and to pre-target areas for tactile inspection, cutting durations and minimizing mainline shutdowns.
+
+### Companies involved
+
+- Railroads:
+  - BNSF Railway
+  - CSX Transportation
+  - Union Pacific
+  - Norfolk Southern
+  - Canadian National (CN)
+  - Canadian Pacific Kansas City (CPKC; includes former KCS)
+  - Norfolk & Portsmouth Belt Line Railroad (shortline)
+  - Watco Companies (shortline)
+- Technology providers and partners:
+  - DroneDeploy
+  - Skydio (dock-based BVLOS ops)
+  - FlytBase (autonomous orchestration)
+  - Hextronics (drone docks)
+  - Phase One (imagery)
+  - Collins Aerospace (CNPC radios for BVLOS command/control)
+  - Automodality (AMROS/Perceptive Navigation)
+  - American Rail Engineers (ARE)
+  - Nordic Unmanned (Staaker Railway Drone)
+
+## Future Use and Applications
+
+Growth areas include scaling yard inventory automation to additional intermodal facilities, expanding one-to-many remote operations, and deeper integration with yard management (e.g., automated switch-list optimization, load planning). Track and bridge inspections will incorporate more edge AI (e.g., joint bar bolt detection, switch point gaps, gauge issues), higher-precision positioning (RTK), and coverage beyond yards to “line of road.” Railroads indicate plans to activate autonomous systems at numerous locations (e.g., CSX) and continue expansion of inventory automation (e.g., BNSF). As detect-and-avoid and BVLOS frameworks mature, longer-range remote operations will become more routine, improving inspection frequency and safety while reducing dwell and disruption.
+
+## Key Facts and Figures
+
+This section summarizes sourced evidence of how railroads use drones—often integrated with GIS/AI—for intermodal yard inventory, security, and infrastructure inspection:
 
 - BNSF Railway
-  - Automated Yard Check (AYC) at intermodal facilities uses drone-in-a-box flights every 30–90 minutes. AI/OCR reads container IDs and slot numbers, thermal imagery supports nighttime security.
-  - Reported a 20% inventory accuracy improvement over manual checks and more checks possible in less time. Initial facility basemaps included ~50,000 parking spaces.
-  - Remote, dock-based BVLOS (nationwide waiver, 2021–2023) for yard security, emergency response, and inspections at up to 100 ft AGL.
+  - Automated Yard Check (AYC): drone-in-a-box flights every 30–90 minutes; AI/OCR reads container IDs and slot numbers; thermal imagery supports nighttime security.
+  - Reported a 20% inventory accuracy improvement vs. manual checks; initial basemaps included ~50,000 parking spaces.
+  - Remote, dock-based BVLOS (nationwide waiver, 2021–2023) for yard security, emergency response, inspections at up to 100 ft AGL.
   - First civil BVLOS long-range (132-mile) inspection flight (New Mexico, FAA Pathfinder).
   - Patent (2024) describes end-to-end drone-based automated yard check and GIS conversion from GPS to lot/row/slot.
 
