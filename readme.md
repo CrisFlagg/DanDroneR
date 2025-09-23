@@ -75,6 +75,12 @@ Download the dataset:
 - [Download rail_yard_drone_use.csv](./rail_yard_drone_use.csv)
 - [Session transcript](./transcript.md)
 
+References archive:
+- PDFs and snapshots will be saved to the `references/` folder. To populate it, run:
+  - `pip install -r requirements.txt`
+  - `python scripts/save_references_to_pdf.py`
+- Output includes a `references/manifest.csv` detailing conversion status for each source.
+
 ## Dataset Overview
 
 The CSV includes:
