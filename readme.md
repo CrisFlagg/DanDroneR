@@ -73,6 +73,7 @@ Upcoming rules and frameworks:
 
 Download the dataset:
 - [Download rail_yard_drone_use.csv](file:///rail_yard_drone_use.csv)
+- [Session transcript](file:///transcript.md)
 
 ## Dataset Overview
 
