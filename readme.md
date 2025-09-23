@@ -34,7 +34,7 @@ Major U.S. and Canadian railroads have active drone programs ([9](#ref9)). BNSF 
 
 ## Future Use and Applications
 
-Railroads are expanding these programs to more yards and longer stretches of track. Expect broader remote operations from centralized control rooms, more sites with routine inventory updates, and inspection software that can automatically flag issues like loose fasteners or gaps at switches. As safety frameworks mature, BVLOS operations will become easier to run routinely, increasing inspection frequency and reducing downtime. Overall, the aim is fewer manual counts, faster incident response, safer bridge inspections, and better visibility of assets across the network.
+Railroads are expanding these programs to more yards and longer stretches of track ([1](#ref1), [7](#ref7), [4](#ref4)). Expect broader remote operations from centralized control rooms ([7](#ref7)) and dock‑based remote flying where permitted ([3](#ref3)), more sites with routine inventory updates ([1](#ref1), [2](#ref2)), and inspection software that can automatically flag issues (e.g., small defects at switches or gaps) ([7](#ref7)). As safety frameworks mature, BVLOS operations will become easier to run routinely, increasing inspection frequency and reducing downtime ([11](#ref11), [12](#ref12), [13](#ref13), [14](#ref14), [15](#ref15)). Overall, the aim is fewer manual counts ([2](#ref2)), faster incident response ([3](#ref3)), safer bridge inspections ([9](#ref9), [10](#ref10)), and better visibility of assets across the network ([1](#ref1), [2](#ref2)).
 
 ## Key Facts and Figures
 
