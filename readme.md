@@ -98,21 +98,35 @@ Open the CSV in Excel and:
 
 ## Bibliography (formal)
 
-<a id="ref1"></a> 1) McNabb, Miriam. “What Automation Really Looks Like: BNSF Railway on Drone Docks, Inventory Management and More (DDC 2023).” DRONELIFE, Oct 11, 2023. https://dronelife.com/2023/10/11/what-automation-really-looks-like-bnsf-railway-on-drone-docks-inventory-management-and-more-from-the-floor-of-ddc-23/
-<a id="ref2"></a> 2) Culos, Lisa; Manning, Stephen. “Eyes on AI: BNSF innovates to better serve our customers.” BNSF Rail Talk (Innovation), Jan 9, 2025. https://bnsf.com/news-media/railtalk/innovation/artificial-intelligence.html
-<a id="ref3"></a> 3) Dukowitz, Zacc. “FAA Issues First National Approval for Remote, Dock-Based Drone Operations to BNSF Railway.” UAV Coach, Jul 1, 2021. https://uavcoach.com/bnsf-remote-ops-waiver/
-<a id="ref4"></a> 4) Brajkovic, Vesna. “Inside BNSF’s advanced drone inspection operation.” Progressive Railroading (Rail News: BNSF), Apr 2019. https://www.progressiverailroading.com/bnsf_railway/article/Inside-BNSFs-advanced-drone-inspection-operation--57346
-<a id="ref5"></a> 5) United States Patent No. 12,056,931. “Drone based automated yard check.” Justia Patents, Aug 6, 2024. https://patents.justia.com/patent/12056931
-<a id="ref6"></a> 6) “BNSF Railway Tests Nordic Unmanned Railway Inspection Drone.” Unmanned Systems Technology (News), Sep 7, 2022. https://www.unmannedsystemstechnology.com/2022/09/bnsf-railway-tests-nordic-unmanned-railway-inspection-drone/
-<a id="ref7"></a> 7) “How CSX Transportation is Mitigating Rail Risks using Autonomous Drone Ops in US.” FlytBase Case Study, 2025. https://www.flytbase.com/case-studies/csx-autonomous-drone-rail-inspection
-<a id="ref8"></a> 8) “Rising to the Occasion: Union Pacific Drones Support Safe Operations.” Union Pacific News (Safety), Jul 1, 2024. https://www.up.com/news/safety/drones-safe-operations-it-240628
-<a id="ref9"></a> 9) Brajkovic, Vesna. “Railroads continue to tap drone technology to inspect track, bridges.” Progressive Railroading (Rail News: MOW), Apr 2019. https://www.progressiverailroading.com/mow/article/Railroads-continue-to-tap-drone-technology-to-inspect-track-bridges--57270
-<a id="ref10"></a> 10) Brajkovic, Vesna. “Short lines gain a new perspective on drone inspection.” Progressive Railroading (Rail News: Short Lines & Regionals), Mar 2020. https://www.progressiverailroading.com/short_lines_regionals/article/Short-lines-gain-a-new-perspective-on-drone-inspection--59910
-<a id="ref11"></a> 11) Autonomy Global. “Understanding FAA Part 108: Why Safety Management Systems Are Central to BVLOS Drone Rules.” Aug 2025. https://www.autonomyglobal.co/understanding-faa-part-108-why-safety-management-systems-are-central-to-bvlos-drone-rules/
-<a id="ref12"></a> 12) Pillsbury Law. “FAA Proposes Rule to Enable Routine BVLOS Operations.” Aug 2025. https://www.pillsburylaw.com/en/news-and-insights/faa-proposed-rule-bvlos.html
-<a id="ref13"></a> 13) AUVSI. “Unlocking Routine BVLOS Operations: AUVSI’s Initial Analysis of the FAA’s NPRM.” Aug 2025. https://www.auvsi.org/unlocking-routine-bvlos-operations-auvsis-initial-analysis-of-the-faas-nprm/
-<a id="ref14"></a> 14) DSLRPros. “FAA BVLOS NPRM Under Part 108: Complete Guide for Drone Buyers and Ops Teams.” Aug 2025. https://www.dslrpros.com/blogs/drone-trends/faa-bvlos-nprm-under-part-108-complete-guide-for-drone-buyers-and-ops-teams
-<a id="ref15"></a> 15) Commercial UAV News. “What Can the FAA Learn From Transport Canada’s New BVLOS Regulations?” Apr 2025. https://www.commercialuavnews.com/international/what-can-the-faa-learn-from-transport-canada-s-new-bvlos-regulations
+<a id="ref1"></a> (1) McNabb, Miriam. “What Automation Really Looks Like: BNSF Railway on Drone Docks, Inventory Management and More (DDC 2023).” DRONELIFE, Oct 11, 2023. https://dronelife.com/2023/10/11/what-automation-really-looks-like-bnsf-railway-on-drone-docks-inventory-management-and-more-from-the-floor-of-ddc-23/
+
+<a id="ref2"></a> (2) Culos, Lisa; Manning, Stephen. “Eyes on AI: BNSF innovates to better serve our customers.” BNSF Rail Talk (Innovation), Jan 9, 2025. https://bnsf.com/news-media/railtalk/innovation/artificial-intelligence.html
+
+<a id="ref3"></a> (3) Dukowitz, Zacc. “FAA Issues First National Approval for Remote, Dock-Based Drone Operations to BNSF Railway.” UAV Coach, Jul 1, 2021. https://uavcoach.com/bnsf-remote-ops-waiver/
+
+<a id="ref4"></a> (4) Brajkovic, Vesna. “Inside BNSF’s advanced drone inspection operation.” Progressive Railroading (Rail News: BNSF), Apr 2019. https://www.progressiverailroading.com/bnsf_railway/article/Inside-BNSFs-advanced-drone-inspection-operation--57346
+
+<a id="ref5"></a> (5) United States Patent No. 12,056,931. “Drone based automated yard check.” Justia Patents, Aug 6, 2024. https://patents.justia.com/patent/12056931
+
+<a id="ref6"></a> (6) “BNSF Railway Tests Nordic Unmanned Railway Inspection Drone.” Unmanned Systems Technology (News), Sep 7, 2022. https://www.unmannedsystemstechnology.com/2022/09/bnsf-railway-tests-nordic-unmanned-railway-inspection-drone/
+
+<a id="ref7"></a> (7) “How CSX Transportation is Mitigating Rail Risks using Autonomous Drone Ops in US.” FlytBase Case Study, 2025. https://www.flytbase.com/case-studies/csx-autonomous-drone-rail-inspection
+
+<a id="ref8"></a> (8) “Rising to the Occasion: Union Pacific Drones Support Safe Operations.” Union Pacific News (Safety), Jul 1, 2024. https://www.up.com/news/safety/drones-safe-operations-it-240628
+
+<a id="ref9"></a> (9) Brajkovic, Vesna. “Railroads continue to tap drone technology to inspect track, bridges.” Progressive Railroading (Rail News: MOW), Apr 2019. https://www.progressiverailroading.com/mow/article/Railroads-continue-to-tap-drone-technology-to-inspect-track-bridges--57270
+
+<a id="ref10"></a> (10) Brajkovic, Vesna. “Short lines gain a new perspective on drone inspection.” Progressive Railroading (Rail News: Short Lines & Regionals), Mar 2020. https://www.progressiverailroading.com/short_lines_regionals/article/Short-lines-gain-a-new-perspective-on-drone-inspection--59910
+
+<a id="ref11"></a> (11) Autonomy Global. “Understanding FAA Part 108: Why Safety Management Systems Are Central to BVLOS Drone Rules.” Aug 2025. https://www.autonomyglobal.co/understanding-faa-part-108-why-safety-management-systems-are-central-to-bvlos-drone-rules/
+
+<a id="ref12"></a> (12) Pillsbury Law. “FAA Proposes Rule to Enable Routine BVLOS Operations.” Aug 2025. https://www.pillsburylaw.com/en/news-and-insights/faa-proposed-rule-bvlos.html
+
+<a id="ref13"></a> (13) AUVSI. “Unlocking Routine BVLOS Operations: AUVSI’s Initial Analysis of the FAA’s NPRM.” Aug 2025. https://www.auvsi.org/unlocking-routine-bvlos-operations-auvsis-initial-analysis-of-the-faas-nprm/
+
+<a id="ref14"></a> (14) DSLRPros. “FAA BVLOS NPRM Under Part 108: Complete Guide for Drone Buyers and Ops Teams.” Aug 2025. https://www.dslrpros.com/blogs/drone-trends/faa-bvlos-nprm-under-part-108-complete-guide-for-drone-buyers-and-ops-teams
+
+<a id="ref15"></a> (15) Commercial UAV News. “What Can the FAA Learn From Transport Canada’s New BVLOS Regulations?” Apr 2025. https://www.commercialuavnews.com/international/what-can-the-faa-learn-from-transport-canada-s-new-bvlos-regulations
 
 Notes:
 - Facility names in examples (e.g., Logistics Park Chicago; San Bernardino Intermodal Facility; Alliance Yard) reflect cited sources; where specific facility deployment is not stated, “intermodal facilities” or “system-wide” is used.
