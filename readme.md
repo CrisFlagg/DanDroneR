@@ -72,8 +72,8 @@ Upcoming rules and frameworks:
 - FAA Part 108 BVLOS NPRM (proposed August 5, 2025; public comment to October 6, 2025): a performance‑based BVLOS framework with mandatory Safety Management Systems, safety technology requirements, personnel vetting, and scalable operator certifications; a final rule is expected in 2026 ([11](#ref11), [12](#ref12), [13](#ref13), [14](#ref14), [16](#ref16), [17](#ref17)).
 
 Download the dataset:
-- [Download rail_yard_drone_use.csv](file:///rail_yard_drone_use.csv)
-- [Session transcript](file:///transcript.md)
+- [Download rail_yard_drone_use.csv](./rail_yard_drone_use.csv)
+- [Session transcript](./transcript.md)
 
 ## Dataset Overview
 
