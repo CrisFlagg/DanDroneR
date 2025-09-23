@@ -322,18 +322,9 @@ Outcome: No‑code support offered with steps.
 
 ### 3) User → Genie
 
-Exact user message:
-```
-# TASK
+user -> The executive summary is a baseline.  Move it to a 'key facts and figures' section.  Add a text description of three paragraphs covering the background of the technology, what is the current status of the technology, what companies are involved (bulleted list), and future use and applications as well as where these companies may be expanding current services.
 
-# COMMENT
-
-The executive summary is a baseline.  Move it to a 'key facts and figures' section.  Add a text description of three paragraphs covering the background of the technology, what is the current status of the technology, what companies are involved (bulleted list), and future use and applications as well as where these companies may be expanding current services.
-```
-
-Cosine (Genie) response:
-```
-Completed. The README now:
+Cosine -> Completed. The README now:
 
 - Moves the executive summary content into a “Key Facts and Figures” section.
 - Adds three new narrative sections:
@@ -346,7 +337,6 @@ I kept the dataset overview, analysis guidance, and bibliography. Download the d
 - [Download rail_yard_drone_use.csv](file:///rail_yard_drone_use.csv)
 
 Would you like me to add a “Facility_Name” column with specific yard names where sources are explicit (e.g., Logistics Park Chicago, San Bernardino, Alliance)?
-```
 
 Tools used:
 - functions.code_artefact (modified readme.md with the requested sections)
