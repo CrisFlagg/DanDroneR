@@ -34,7 +34,7 @@ Major U.S. and Canadian railroads have active drone programs ([9](#ref9)). BNSF 
 
 ## Future Use and Applications
 
-Railroads are expanding these programs to more yards and longer stretches of track ([1](#ref1), [7](#ref7), [4](#ref4)). Expect broader remote operations from centralized control rooms ([7](#ref7)) and dock‑based remote flying where permitted ([3](#ref3)), more sites with routine inventory updates ([1](#ref1), [2](#ref2)), and inspection software that can automatically flag issues (e.g., small defects at switches or gaps) ([7](#ref7)). As safety frameworks mature, BVLOS operations will become easier to run routinely, increasing inspection frequency and reducing downtime ([11](#ref11), [12](#ref12), [13](#ref13), [14](#ref14), [15](#ref15)). Overall, the aim is fewer manual counts ([2](#ref2)), faster incident response ([3](#ref3)), safer bridge inspections ([9](#ref9), [10](#ref10)), and better visibility of assets across the network ([1](#ref1), [2](#ref2)).
+Railroads are expanding these programs to more yards and longer stretches of track ([1](#ref1), [7](#ref7), [4](#ref4)). Expect broader remote operations from centralized control rooms ([7](#ref7)) and dock‑based remote flying where permitted ([3](#ref3)), more sites with routine inventory updates ([1](#ref1), [2](#ref2)), and inspection software that can automatically flag issues (e.g., small defects at switches or gaps) ([7](#ref7)). As safety frameworks mature, BVLOS operations will become easier to run routinely, increasing inspection frequency and reducing downtime ([11](#ref11), [12](#ref12), [13](#ref13), [14](#ref14), [15](#ref15), [16](#ref16), [17](#ref17)). Overall, the aim is fewer manual counts ([2](#ref2)), faster incident response ([3](#ref3)), safer bridge inspections ([9](#ref9), [10](#ref10)), and better visibility of assets across the network ([1](#ref1), [2](#ref2)).
 
 ## Key Facts and Figures
 
@@ -69,7 +69,7 @@ At‑a‑glance metrics:
 
 Upcoming rules and frameworks:
 - Transport Canada BVLOS final rule (effective November 4, 2025): allows routine BVLOS operations for drones up to 150 kg in Class G (uncontrolled) airspace at low altitudes over sparsely populated areas, without a case‑by‑case SFOC; includes a new BVLOS pilot certification and a transition period to full implementation ([15](#ref15)).
-- FAA Part 108 BVLOS NPRM (proposed August 5, 2025; public comment to October 6, 2025): a performance‑based BVLOS framework with mandatory Safety Management Systems, safety technology requirements, personnel vetting, and scalable operator certifications; a final rule is expected in 2026 ([11](#ref11), [12](#ref12), [13](#ref13), [14](#ref14)).
+- FAA Part 108 BVLOS NPRM (proposed August 5, 2025; public comment to October 6, 2025): a performance‑based BVLOS framework with mandatory Safety Management Systems, safety technology requirements, personnel vetting, and scalable operator certifications; a final rule is expected in 2026 ([11](#ref11), [12](#ref12), [13](#ref13), [14](#ref14), [16](#ref16), [17](#ref17)).
 
 Download the dataset:
 - [Download rail_yard_drone_use.csv](file:///rail_yard_drone_use.csv)
@@ -127,6 +127,10 @@ Open the CSV in Excel and:
 <a id="ref14"></a> (14) DSLRPros. “FAA BVLOS NPRM Under Part 108: Complete Guide for Drone Buyers and Ops Teams.” Aug 2025. https://www.dslrpros.com/blogs/drone-trends/faa-bvlos-nprm-under-part-108-complete-guide-for-drone-buyers-and-ops-teams
 
 <a id="ref15"></a> (15) Commercial UAV News. “What Can the FAA Learn From Transport Canada’s New BVLOS Regulations?” Apr 2025. https://www.commercialuavnews.com/international/what-can-the-faa-learn-from-transport-canada-s-new-bvlos-regulations
+
+<a id="ref16"></a> (16) Commercial UAV News. “FAA’s Draft BVLOS Regulations: What Industry Needs to Know.” Aug 11, 2025. https://www.commercialuavnews.com/bvlos-drone-operations-nprm-faa-part-108
+
+<a id="ref17"></a> (17) Plaza, Juan. “The Notice of Proposed Rulemaking for Part 108 is Finally Here: Is It Good?” Commercial UAV News, Aug 2025. https://www.commercialuavnews.com/the-notice-of-proposed-rulemaking-for-part-108-is-finally-here-is-it-good
 
 Notes:
 - Facility names in examples (e.g., Logistics Park Chicago; San Bernardino Intermodal Facility; Alliance Yard) reflect cited sources; where specific facility deployment is not stated, “intermodal facilities” or “system-wide” is used.
