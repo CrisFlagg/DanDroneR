@@ -64,6 +64,10 @@ Metrics summarized (from sources):
 - Reported accuracy gains: BNSF AYC improved inventory accuracy by 20%.
 - Expansion plans: BNSF planned AYC expansion to six more locations (following 2023–2024 pilots); CSX scaling to numerous locations in 2025.
 
+Upcoming rules and frameworks:
+- Transport Canada BVLOS final rule: effective November 4, 2025. Enables routine BVLOS ops for RPAS up to 150 kg in Class G (uncontrolled) airspace at low altitudes over sparsely populated areas, without an SFOC; introduces a new BVLOS pilot certification and eight-month transition to full implementation.
+- FAA Part 108 BVLOS NPRM (proposed August 5, 2025; comment period to October 6, 2025): performance-based BVLOS framework with mandatory Safety Management Systems (SMS), detect-and-avoid and C2/cybersecurity requirements, TSA vetting, and scalable operational certification pathways; final rule expected in 2026.
+
 Download the dataset:
 - [Download rail_yard_drone_use.csv](file:///rail_yard_drone_use.csv)
 
@@ -110,6 +114,11 @@ Open the CSV in Excel and:
 9) Brajkovic, Vesna. “Railroads continue to tap drone technology to inspect track, bridges.” Progressive Railroading (Rail News: MOW), Apr 2019. https://www.progressiverailroading.com/mow/article/Railroads-continue-to-tap-drone-technology-to-inspect-track-bridges--57270
 
 10) Brajkovic, Vesna. “Short lines gain a new perspective on drone inspection.” Progressive Railroading (Rail News: Short Lines & Regionals), Mar 2020. https://www.progressiverailroading.com/short_lines_regionals/article/Short-lines-gain-a-new-perspective-on-drone-inspection--59910
+11) Autonomy Global. “Understanding FAA Part 108: Why Safety Management Systems Are Central to BVLOS Drone Rules.” Aug 2025. https://www.autonomyglobal.co/understanding-faa-part-108-why-safety-management-systems-are-central-to-bvlos-drone-rules/
+12) Pillsbury Law. “FAA Proposes Rule to Enable Routine BVLOS Operations.” Aug 2025. https://www.pillsburylaw.com/en/news-and-insights/faa-proposed-rule-bvlos.html
+13) AUVSI. “Unlocking Routine BVLOS Operations: AUVSI’s Initial Analysis of the FAA’s NPRM.” Aug 2025. https://www.auvsi.org/unlocking-routine-bvlos-operations-auvsis-initial-analysis-of-the-faas-nprm/
+14) DSLRPros. “FAA BVLOS NPRM Under Part 108: Complete Guide for Drone Buyers and Ops Teams.” Aug 2025. https://www.dslrpros.com/blogs/drone-trends/faa-bvlos-nprm-under-part-108-complete-guide-for-drone-buyers-and-ops-teams
+15) Commercial UAV News. “What Can the FAA Learn From Transport Canada’s New BVLOS Regulations?” Apr 2025. https://www.commercialuavnews.com/international/what-can-the-faa-learn-from-transport-canada-s-new-bvlos-regulations
 
 Notes:
 - Facility names in examples (e.g., Logistics Park Chicago; San Bernardino Intermodal Facility; Alliance Yard) reflect cited sources; where specific facility deployment is not stated, “intermodal facilities” or “system-wide” is used.
