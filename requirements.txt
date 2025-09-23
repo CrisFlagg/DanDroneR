@@ -1,0 +1,4 @@
+requests
+pdfkit
+weasyprint
+xhtml2pdf
